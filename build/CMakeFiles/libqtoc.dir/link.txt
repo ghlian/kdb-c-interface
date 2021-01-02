@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -O2 -fpic -std=gnu99 -shared -Wl,-soname,libqtoc.so -o libqtoc.so CMakeFiles/libqtoc.dir/src/makeq.c.o CMakeFiles/libqtoc.dir/src/printq.c.o 

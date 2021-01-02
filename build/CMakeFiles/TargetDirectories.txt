@@ -1,0 +1,7 @@
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/install/strip.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/install/local.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/install.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/libqtoc.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/list_install_components.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/edit_cache.dir
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/build/CMakeFiles/rebuild_cache.dir

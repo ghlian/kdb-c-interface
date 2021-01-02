@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/src/k.h
+
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/src/makeq.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+k.h
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/src/k.h
+
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/src/printq.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+ctype.h
+-
+string.h
+-
+k.h
+/home/ghlian/CODE_LIAN/code_cpp/kdb-c-interface/src/k.h
+
